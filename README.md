@@ -95,7 +95,7 @@ This tool is intended for educational and ethical use only. The author is not re
 ## 👨‍💻 Author
 
 **Sankalp Mankar**
-Cybersecurity Enthusiast
+
 
 ---
 
